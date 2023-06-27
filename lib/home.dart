@@ -69,6 +69,11 @@ class WidgetStateless extends StatelessWidget {
       children: [
         Text('$count', style: const TextStyle(fontSize: 24)),
         const WidgetStateful(),
+        const WidgetStateful(),
+        const WidgetStateful(),
+        const WidgetStateful(),
+        const WidgetStateful(),
+        const WidgetStateful(),
       ],
     );
   }

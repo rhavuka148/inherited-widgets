@@ -71,9 +71,6 @@ class WidgetStateless extends StatelessWidget {
         const WidgetStateful(),
         const WidgetStateful(),
         const WidgetStateful(),
-        const WidgetStateful(),
-        const WidgetStateful(),
-        const WidgetStateful(),
       ],
     );
   }
